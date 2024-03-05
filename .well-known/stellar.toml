@@ -42,3 +42,16 @@ conditions="There will only ever be 1 billion SGB tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code="GOLD"
+name="GOLD"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=true
+anchor_asset_type="commodity"
+anchor_asset="Gold"
+image="https://stellarreword.github.io/img/URO.png"
+status="live"
+
+

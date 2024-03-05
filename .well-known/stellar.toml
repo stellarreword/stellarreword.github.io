@@ -1,17 +1,17 @@
-# Anubistoken <anubistoken.github.io>
+# stellareword <stellarrewodrd.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=["GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"]
 
 [DOCUMENTATION]
-ORG_NAME="Anubistoken"
+ORG_NAME="Stellarreword"
 ORG_URL="https://stellarreword.github.io/"
 ORG_LOGO = "https://stellarreword.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="non"
 ORG_SUPPORT_EMAIL="non"
-ORG_TWITTER="0xanubistoken"
-ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
+ORG_TWITTER="none"
+ORG_DESCRIPTION="Stellarreword: Create Value to volume Coin Space"
 
 [[PRINCIPALS]]
 email="non"

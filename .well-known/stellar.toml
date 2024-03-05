@@ -21,7 +21,7 @@ email="non"
 [[CURRENCIES]]
 code = "1BOSS"
 name = "1BOSS"
-issuer = "GCVHR2Q7Z5SF4IOCLMLCKKSJHE4UG5Q6J7HWN3HQO3PVPR57AET2SUWB"
+issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of 1BOSS."

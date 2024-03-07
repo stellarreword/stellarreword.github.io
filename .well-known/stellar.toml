@@ -1,71 +1,32 @@
-# stellarreword <stellarrewodrd.github.io>
+# Anubistoken <anubistoken.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+"GCVHR2Q7Z5SF4IOCLMLCKKSJHE4UG5Q6J7HWN3HQO3PVPR57AET2SUWB"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Stellarreword"
-ORG_URL="https://stellarzoom.github.io/"
-ORG_LOGO = "https://stellarzoom.github.io/img/crown.png"
+ORG_NAME="Anubistoken"
+ORG_URL="https://stellarreword.github.io/"
+ORG_LOGO = "https://stellarreword.github.io/img/anubis.png"
 ORG_OFFICIAL_EMAIL="non"
 ORG_SUPPORT_EMAIL="non"
 ORG_TWITTER="none"
-ORG_DESCRIPTION="Stellarreword: Create Value to volume Coin Space"
+ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
 
 [[PRINCIPALS]]
 email="non"
 
 [[CURRENCIES]]
-code = "1BOSS"
-name = "1BOSS"
-issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
-is_asset_anchored=false
-display_decimals = 8
-desc="This is meme token of 1BOSS."
-image="https://stellarzoom.github.io/img/crown.png"
-conditions="There will only ever be 1 billion 1BOSS tokens in existence."
-status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
-
-
-[[CURRENCIES]]
-code = "SGB"
-name = "swees gold bond"
-issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+code = "ANUB"
+name = "ANUB"
+issuer = "GCVHR2Q7Z5SF4IOCLMLCKKSJHE4UG5Q6J7HWN3HQO3PVPR57AET2SUWB"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of SGB."
-image="https://stellarreword.github.io/img/SGB.png"
-conditions="There will only ever be 1 billion SGB tokens in existence."
-status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
-
-
-[[CURRENCIES]]
-code="GOLD"
-name="GOLD"
-issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
-is_asset_anchored=false
-anchor_asset_type="commodity"
-anchor_asset="Gold"
-image="https://stellarreword.github.io/img/URO.png"
-status="live"
-
-
-[[CURRENCIES]]
-code = "Kay"
-name = "stellar kay"
-issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
-is_asset_anchored=false
-display_decimals = 7
-desc="This is meme token of 1BOSS."
-image="https://stellarreword.github.io/img/Kay.png"
-conditions="There will only ever be 1 billion kay tokens in existence."
+desc="This is meme token of ANUB."
+image="https://stellarzoom.github.io/img/anubis.png"
+conditions="There will only ever be 1 billion ANUB tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000

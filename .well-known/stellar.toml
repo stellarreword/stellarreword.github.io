@@ -2,12 +2,14 @@
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
-ACCOUNTS=["GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"]
+ACCOUNTS=[
+"GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+]
 
 [DOCUMENTATION]
 ORG_NAME="Stellarreword"
-ORG_URL="https://stellarreword.github.io/"
-ORG_LOGO = "https://stellarreword.github.io/img/crown.png"
+ORG_URL="https://stellarzoom.github.io/"
+ORG_LOGO = "https://stellarzoom.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="non"
 ORG_SUPPORT_EMAIL="non"
 ORG_TWITTER="none"
@@ -23,7 +25,7 @@ issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 is_asset_anchored=false
 display_decimals = 8
 desc="This is meme token of 1BOSS."
-image="https://stellarreword.github.io/img/crown.png"
+image="https://stellarzoom.github.io/img/crown.png"
 conditions="There will only ever be 1 billion 1BOSS tokens in existence."
 status="live"
 anchor_asset_type="other"

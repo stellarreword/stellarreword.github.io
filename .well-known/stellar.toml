@@ -3,11 +3,11 @@ VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCVHR2Q7Z5SF4IOCLMLCKKSJHE4UG5Q6J7HWN3HQO3PVPR57AET2SUWB"
+"GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Anubistoken"
+ORG_NAME="STELLARREWORD"
 ORG_URL="https://stellarreword.github.io/"
 ORG_LOGO = "https://stellarreword.github.io/img/anubis.png"
 ORG_OFFICIAL_EMAIL="non"
@@ -19,13 +19,13 @@ ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
 email="non"
 
 [[CURRENCIES]]
-code = "ANUB"
-name = "ANUB"
-issuer = "GCVHR2Q7Z5SF4IOCLMLCKKSJHE4UG5Q6J7HWN3HQO3PVPR57AET2SUWB"
+code = "1BOSS"
+name = "1BOSS"
+issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ANUB."
-image="https://stellarzoom.github.io/img/anubis.png"
+image="https://stellarzoom.github.io/img/crown.png"
 conditions="There will only ever be 1 billion ANUB tokens in existence."
 status="live"
 anchor_asset_type="other"

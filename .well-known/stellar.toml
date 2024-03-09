@@ -30,3 +30,17 @@ conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="SGB"
+name ="SWEES GOLD BOND"
+issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://stellarreword.github.io/img/SGB.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000

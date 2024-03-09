@@ -13,7 +13,7 @@ ORG_LOGO ="https://stellarreword.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="non"
 ORG_SUPPORT_EMAIL="non"
 ORG_TWITTER="none"
-ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
+ORG_DESCRIPTION=": Create Value to Meme Coin Space"
 
 [[PRINCIPALS]]
 email="non"

@@ -9,7 +9,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="STELLARREWORD"
 ORG_URL="https://stellarreword.github.io/"
-ORG_LOGO = "https://stellarreword.github.io/img/crown.png"
+ORG_LOGO ="https://stellarreword.github.io/img/crown.png"
 ORG_OFFICIAL_EMAIL="non"
 ORG_SUPPORT_EMAIL="non"
 ORG_TWITTER="none"
@@ -19,8 +19,8 @@ ORG_DESCRIPTION="Anubistoken: Create Value to Meme Coin Space"
 email="non"
 
 [[CURRENCIES]]
-code = "1BOSS"
-name = "1BOSS"
+code ="1BOSS"
+name ="1BOSS"
 issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 is_asset_anchored=false
 display_decimals = 7

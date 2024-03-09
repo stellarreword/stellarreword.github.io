@@ -71,7 +71,7 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHAT"
+code="CHATGPT"
 name="ChatGPT"
 issuer="GCKUR4FJUOZKVS6M3SLUZTECFG5Y5UQHX2JLIQYXZWNLQBLUQPP6XQT3"
 is_asset_anchored=true

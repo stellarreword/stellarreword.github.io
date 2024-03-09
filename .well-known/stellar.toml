@@ -10,9 +10,8 @@ ACCOUNTS=[
 ORG_NAME="STELLARREWORD"
 ORG_URL="https://stellarreword.github.io/"
 ORG_LOGO ="https://stellarreword.github.io/img/crown.png"
-ORG_OFFICIAL_EMAIL="non"
-ORG_SUPPORT_EMAIL="non"
-ORG_TWITTER="none"
+ORG_OFFICIAL_EMAIL="stellarreword@protan.me"
+ORG_SUPPORT_EMAIL="stellarreword@protan.me"
 ORG_DESCRIPTION=": Create Value to Meme Coin Space"
 
 [[PRINCIPALS]]
@@ -53,6 +52,19 @@ is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
 image="https://stellarreword.github.io/img/BTC.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="KAY"
+name ="KAKER KAY"
+issuer = "GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://stellarreword.github.io/img/KAY.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"

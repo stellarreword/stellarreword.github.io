@@ -148,5 +148,16 @@ image="https://stellarreword.github.io/img/BOND.png"
 status="live"
 
 
+[[CURRENCIES]]
+code="T"
+name="T"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="T"
+image="https://stellarreword.github.io/img/T.png"
+status="live"
+
+
 
 

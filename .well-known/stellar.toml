@@ -104,16 +104,6 @@ image="https://stellarreword.github.io/img/SGB.png"
 status="live"
 
 
-[[CURRENCIES]]
-code="SNP500"
-name="SWEES BOND"
-issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
-is_asset_anchored=false
-anchor_asset_type="other"
-anchor_asset="swees bond"
-image="https://stellarreword.github.io/img/.phttps://stellarreword.github.io/img/COIN.png"
-status="live"
-
 
 [[CURRENCIES]]
 code="RCEO"

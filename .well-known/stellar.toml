@@ -171,5 +171,14 @@ image="https://stellarreword.github.io/img/100.png"
 status="live"
 
 
+[[CURRENCIES]]
+code="Q"
+name="Question"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="Q"
+image="https://stellarreword.github.io/img/Q.png"
+status="live"
 
 

@@ -220,3 +220,14 @@ anchor_asset="DW"
 image="https://stellarreword.github.io/img/DW.png"
 status="live"
 
+
+
+[[CURRENCIES]]
+code="DEX"
+name="DX"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="dex"
+image="https://stellarreword.github.io/img/DEX.png"
+status="live"

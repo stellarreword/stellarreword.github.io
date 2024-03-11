@@ -254,3 +254,15 @@ anchor_asset_type="other"
 anchor_asset="MASTAR"
 image="https://stellarreword.github.io/img/MBA.png"
 status="live"
+
+
+
+[[CURRENCIES]]
+code="GDDSX"
+name="GDDSX"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="ALL"
+image="https://stellarreword.github.io/img/STAR.png"
+status="live"

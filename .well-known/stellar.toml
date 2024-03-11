@@ -231,3 +231,15 @@ anchor_asset_type="other"
 anchor_asset="dex"
 image="https://stellarreword.github.io/img/DEX.png"
 status="live"
+
+
+
+[[CURRENCIES]]
+code="POK"
+name="Pakistani Bond"
+issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
+is_asset_anchored=false
+anchor_asset_type="other"
+anchor_asset="POK"
+image="https://stellarreword.github.io/img/POK.png"
+status="live"

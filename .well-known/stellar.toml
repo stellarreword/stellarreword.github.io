@@ -1,4 +1,4 @@
-# swees <stellarreword.github.io>
+hi# swees <stellarreword.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
@@ -269,7 +269,7 @@ status="live"
 
 
 [[CURRENCIES]]
-code="wallet"
+code="Wallet"
 name="wallet for reword"
 issuer="GCM2FMAXYCXM2LTI2VABS4YLD3YQGBU3T5FCHDAAMQWL2SPNDBKQBEF3"
 is_asset_anchored=false
